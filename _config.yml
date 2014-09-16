@@ -1,5 +1,5 @@
 title: Spend Over £25,000 in June 2014 in the UK Department for Education
-description: An example dataset taken from <a href="http://data.gov.uk/dataset/financial-transactions-data-dfe" target="_blank">data.gov.uk</a> used here to demonstrate the open data publishing template in Github. This dataset is a monthly-updated list of all financial transactions spending over £25,000 made by the Foreign and Commonwealth Office, as part of the Government's commitment to transparency in expenditure.
+description: An example dataset taken from <a href="http://data.gov.uk/dataset/financial-transactions-data-dfe" target="_blank">data.gov.uk</a> used here to demonstrate the open data publishing template in Github. This dataset is a monthly-updated list of all financial transactions spending over £25,000 made by Department for Education, as part of the Government's commitment to transparency in expenditure.
 
 publisher_text: Department for Education
 publisher_url: http://data.gov.uk/publisher/department-for-education
@@ -9,4 +9,4 @@ license_url: http://www.nationalarchives.gov.uk/doc/open-government-licence/vers
 
 frequency: Monthly
 
-certificate_embed: <script src='https://certificates.theodi.org/datasets/2502/certificates/14842/badge.js'></script>
+certificate_embed: <script src='https://certificates.theodi.org/datasets/2600/certificates/14975/badge.js'></script>
